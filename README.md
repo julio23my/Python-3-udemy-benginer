@@ -4,7 +4,8 @@ Curso de python 3 udemy "Master en Python 3.x. Aprende de 0 a EXPERTO con Práct
 
 # Se aprendio
 Conocimientos:
-    Te enseñare a usar el IDE Jupyter.
+
+    Usar el IDE Jupyter.
 
     A programar en Python version 3.x
 
@@ -29,5 +30,5 @@ Conocimientos:
     Funciones Recursivas e integradas en Python.
 
     Manejo de Errores y Excepciones en Python.
-    
+
     Programacion orientada a Objetos, Clases, Herencia, Atributos y Métodos, Encapsulamiento en Python
